@@ -6,5 +6,5 @@ Ritu holds a PhD in econometrics/time-series from the Indian Statistical Institu
 
 ## My Content
 * [Linkedin Profile](https://www.linkedin.com/in/rituparna-kar-712ab28/)
-* Education
-* Kumo
+* [Education](https://www.isical.ac.in/)
+* [Kumo](https://docs.kumo.ai/)

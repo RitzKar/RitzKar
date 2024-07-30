@@ -1,4 +1,4 @@
-<img alt="Image" src="/https://github.com/RitzKar/RitzKar/blob/main/dolphin_coding_SFbridge.jpeg" style="width: 50%;">
+<img alt="Image" src="https://github.com/RitzKar/RitzKar/blob/main/dolphin_coding_SFbridge.jpeg" style="width: 50%;">
 
 
 Rituparna Kar (Ritu) is a seasoned data scientist with over 10 years of experience in quantitative advisory services, risk management, and statistical and ML modeling within the financial services sector. Ritu was a Senior Consultant at Ernst & Young (EY) for seven years, specializing in quantitative techniques for credit risk management. Her responsibilities included statistical model review, code review (SAS, R, Python and SQL), model development, and advisory services for banks of various sizes. She has 2 years experience as a Risk Analyst in HSBC, focusing on statistical modeling for loss forecasting using SAS and mainframe technologies.
